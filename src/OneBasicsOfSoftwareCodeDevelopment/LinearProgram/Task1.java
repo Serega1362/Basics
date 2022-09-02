@@ -1,10 +1,10 @@
-package one;
+package OneBasicsOfSoftwareCodeDevelopment.LinearProgram;
 /*
 Найдите значение функции: z=((a-3)*b/2)+c;
 */
 import java.util.Scanner;
 
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
         System.out.println("Введите три целых числа:");
         Scanner sc = new Scanner(System.in);
